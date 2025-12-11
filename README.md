@@ -1,6 +1,7 @@
-# 🌌 Cosmic Crypto Dashboard - Kiro Week 3 Challenge
+<img width="1872" height="1077" alt="Screenshot 2025-12-11 182116" src="https://github.com/user-attachments/assets/c1dff1a7-0fd8-456d-b291-4d76ca748ced" /># 🌌 Cosmic Crypto Dashboard - Kiro Week 3 Challenge
 
 > **The Data Weaver**: A React-based web application that visualizes the correlation between Bitcoin's price movements and Near Earth Object (asteroid) activity.
+##APP LINK- https://grand-faloodeh-e8b175.netlify.app/
 
 ## 🚀 Features
 
@@ -146,6 +147,6 @@ This project demonstrates:
 - **Real-world API integration** with error handling
 - **Production-ready deployment** with optimized builds
 
- ##APP LINK- https://grand-faloodeh-e8b175.netlify.app/
+
 
 **Challenge Status**: ✅ **COMPLETED** - All requirements met and verified!
